@@ -1,10 +1,9 @@
+package templatemethod;
 /**
  * @author shadow
  * @Date 2016年8月12日下午9:31:53
  * @Fun  模板实现方法1
  **/
-package templatemethod;
-
 public class TemplateMethod extends BaseTemplate {
 
 	@Override

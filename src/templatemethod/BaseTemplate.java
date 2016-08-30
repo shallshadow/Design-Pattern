@@ -1,10 +1,9 @@
+package templatemethod;
 /**
  * @author shadow
  * @Date 2016年8月12日下午9:29:03
  * @Fun  业务流程模板，提供基本框架
  **/
-package templatemethod;
-
 public abstract class BaseTemplate {
 	public abstract void part1();
 	

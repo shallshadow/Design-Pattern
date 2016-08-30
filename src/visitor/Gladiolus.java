@@ -1,10 +1,9 @@
+package visitor;
 /**
  * @author shadow
  * @Date 2016年8月13日下午8:14:15
- * @Fun
+ * @Fun 剑兰
  **/
-package visitor;
-
 public class Gladiolus implements Flower {
 
 	@Override

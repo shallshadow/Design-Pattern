@@ -1,10 +1,9 @@
+package visitor;
 /**
  * @author shadow
  * @Date 2016年8月13日下午8:15:25
  * @Fun  名称访问
  **/
-package visitor;
-
 public class StringVisitor implements Visitor {
 
 	String s;

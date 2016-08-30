@@ -1,10 +1,9 @@
+package visitor;
 /**
  * @author shadow
  * @Date 2016年8月13日下午8:11:17
- * @Fun
+ * @Fun  访问者结构
  **/
-package visitor;
-
 public interface Visitor {
 	void visit(Gladiolus g);
 	

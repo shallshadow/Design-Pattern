@@ -11,7 +11,7 @@
  <td>抽象工厂 </td>  <td>生成器</td>   <td>工厂方法</td>   <td>原型</td>
 </tr>
 <tr>
- <td>单件</td>
+ <td>单件</td> <td></td> <td></td> <td></td>
 </tr>
 </table>
 2.结构型模式<br/>
@@ -23,7 +23,7 @@
  <td>适配器</td>  <td>桥接</td>   <td>组成</td>   <td>装饰</td>
 </tr>
 <tr>
- <td>外观</td> <td>享元</td> <td>代理</td>
+ <td>外观</td> <td>享元</td> <td>代理</td> <td></td>
 </tr>
 </table>
 3.行为模式<br/>
@@ -38,6 +38,6 @@
  <td>中介者</td> <td>备忘录</td> <td>观察者</td> <td>状态</td>
 </tr>
 <tr>
- <td>策略</td> <td>模板方法</td> <td>访问者</td>
+ <td>策略</td> <td>模板方法</td> <td>访问者</td> <td></td>
 </tr>
 </table>

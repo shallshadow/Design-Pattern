@@ -41,5 +41,6 @@
  <td>策略</td> <td>模板方法</td> <td>访问者</td> <td></td>
 </tr>
 </table>
+在这里推荐一下卡奴达摩大神的博客：http://blog.csdn.net/zhengzhb/article/category/926691/2
 
 欢迎大家加入，一起整理更多更有用的设计模式。

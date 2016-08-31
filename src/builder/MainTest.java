@@ -24,3 +24,7 @@ public class MainTest {
 		System.out.println(builder.currentMaze.getRoomCount());
 	}
 }
+
+/**
+ * ²Î¿¼²©¿Í£ºhttp://blog.csdn.net/jason0539/article/details/44992733
+ * */

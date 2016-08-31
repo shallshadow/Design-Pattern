@@ -1,10 +1,9 @@
+package adapter;
 /**
  * @author shadow
  * @Date 2016年8月1日下午8:01:07
  * @Fun 适配器：对象适配器、类适配器、接口适配器
  **/
-package adapter;
-
 public class MainTest {
 	public static void main(String[] args) {
 		//对象适配器
@@ -38,3 +37,6 @@ public class MainTest {
 		}
 	}
 }
+/**
+ * 参考博客： http://blog.csdn.net/jason0539/article/details/22468457
+ * **/

@@ -1,10 +1,9 @@
+package absfactory;
 /**
  * @author shadow
  * @Date 2016年8月18日下午7:05:00
  * @Fun
  **/
-package absfactory;
-
 public class GradeProduct2B extends Product2 {
 	@Override
 	public void show() {

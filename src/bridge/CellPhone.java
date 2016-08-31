@@ -1,10 +1,9 @@
+package bridge;
 /**
  * @author shadow
  * @Date 2016年8月4日下午7:44:26
  * @Fun 手机的实现
  **/
-package bridge;
-
 public class CellPhone extends BaseCellphone {
 	
 	@Override

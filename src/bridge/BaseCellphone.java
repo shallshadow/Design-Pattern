@@ -1,10 +1,9 @@
+package bridge;
 /**
  * @author shadow
  * @Date 2016年8月4日下午7:42:45
  * @Fun 手机类
  **/
-package bridge;
-
 public abstract class BaseCellphone {
 	
 	private BaseCellphoneShell shell;

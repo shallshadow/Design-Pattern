@@ -1,7 +1,5 @@
 package prototype;
 
-import java.util.Iterator;
-
 import model.base.Door;
 import model.base.Maze;
 import model.base.Room;

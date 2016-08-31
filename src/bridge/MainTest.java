@@ -20,5 +20,6 @@ public class MainTest {
  * 优点：1.分离接口极其实现。
  * 	   2.提高可扩充性。
  * 	   3.实现细节对客户透明。
+ * 参考博客：http://blog.csdn.net/jason0539/article/details/22568865
  */
 

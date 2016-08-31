@@ -42,5 +42,6 @@
 </tr>
 </table>
 在这里推荐一下卡奴达摩大神的博客：http://blog.csdn.net/zhengzhb/article/category/926691/2
+还有打鱼还是晒网大神的博客：http://blog.csdn.net/jjwwmlp456/article/category/2597033/1（其中代码绝对大部分来自于他）
 
 欢迎大家加入，一起整理更多更有用的设计模式。

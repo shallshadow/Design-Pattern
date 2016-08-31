@@ -41,7 +41,7 @@
  <td>策略</td> <td>模板方法</td> <td>访问者</td> <td></td>
 </tr>
 </table>
-在这里推荐一下卡奴达摩大神的博客：<url = 'http://blog.csdn.net/zhengzhb/article/category/926691/2'> <br/>
-还有打鱼还是晒网大神的博客：<url = 'http://blog.csdn.net/jjwwmlp456/article/category/2597033/1'>(其中代码绝对大部分来自于他)<br/>
+在这里推荐一下<a href = 'http://blog.csdn.net/zhengzhb/article/category/926691/2'>卡奴达摩大神</a>的博客<br/>
+还有<a href = 'http://blog.csdn.net/jjwwmlp456/article/category/2597033/1'>打鱼还是晒网大神</a>(其中代码绝对大部分来自于他)的博客：<br/>
 
 欢迎大家加入，一起整理更多更有用的设计模式。

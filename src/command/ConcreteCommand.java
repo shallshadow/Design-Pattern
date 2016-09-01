@@ -1,10 +1,9 @@
+package command;
 /**
  * @author shadow
  * @Date 2016年8月7日下午8:44:23
- * @Fun
+ * @Fun  具体命令类实现
  **/
-package command;
-
 public class ConcreteCommand implements ICommand {
 
 	private Receiver receiver;

@@ -1,10 +1,9 @@
+package chainofresponsibility;
 /**
  * @author shadow
  * @Date 2016年8月7日下午8:00:34
  * @Fun 具体责任
  **/
-package chainofresponsibility;
-
 public class ConcreteFilter extends IFilter {
 
 	private String name;

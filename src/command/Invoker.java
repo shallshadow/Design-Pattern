@@ -1,10 +1,9 @@
+package command;
 /**
  * @author shadow
  * @Date 2016年8月7日下午8:46:46
- * @Fun
+ * @Fun  调用者类实现
  **/
-package command;
-
 public class Invoker {
 
 	private ICommand command;

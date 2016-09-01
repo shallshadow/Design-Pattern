@@ -4,7 +4,7 @@ package chainofresponsibility;
  * @author shadow
  * @Date 2016年8月7日下午8:06:44
  * @Fun  责任链(Chain of Responsibility)模式	行为模式
- * 		 将责任一级一级传递给后继者，直到某一个后继者处理了行为表现在：责任的传递，需要是一个链一个
+ * 		 将责任一级一级传递给后继者，直到某一个后继者处理了行为表现在：责任的传递，需要是一个链一个。
  **/
 public class MainTest {
 	public static void main(String[] args) {

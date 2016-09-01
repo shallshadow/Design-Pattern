@@ -1,14 +1,13 @@
 package composite;
 
+import java.util.LinkedList;
+import java.util.List;
 /**
  * @author shadow
  * @Date 2016年8月4日下午7:59:06
  * @Fun 树节点 部分
  * 		也可以自身代表树：一堆节点组成了一颗树
  **/
-import java.util.LinkedList;
-import java.util.List;
-
 public class TreeNode {
 	private String name;
 	private TreeNode parent;

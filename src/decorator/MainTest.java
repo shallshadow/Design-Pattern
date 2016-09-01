@@ -23,3 +23,6 @@ public class MainTest {
 		reader2.read();
 	}
 }
+/**
+ * ÍÆ¼ö²©¿Í£ºhttp://www.cnblogs.com/bastard/archive/2012/02/02/2336150.html
+ * **/

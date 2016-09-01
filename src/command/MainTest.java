@@ -3,7 +3,7 @@ package command;
 /**
  * @author shadow
  * @Date 2016年8月7日下午8:48:11
- * @Fun  命令(Command)模式		请求与执行  分离
+ * @Fun  命令(Command)模式	 行为模式	请求与执行  分离
  * 		 可以多个命令接口的实现类，隐藏真实的被调用方法。
  **/
 public class MainTest {
@@ -17,3 +17,6 @@ public class MainTest {
 		invoker.invoke();
 	}
 }
+/**
+ * 参考博客：http://www.cnblogs.com/zhenyulu/articles/69858.html
+ * */

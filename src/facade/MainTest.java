@@ -18,3 +18,7 @@ public class MainTest {
 		facade.endGame();
 	}
 }
+
+/**
+ * ÍÆ¼ö²©¿Í£ºhttp://blog.csdn.net/hguisu/article/details/7533759
+ * */

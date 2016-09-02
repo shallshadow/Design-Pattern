@@ -15,3 +15,6 @@ public class MainTest {
 		new XmlDomInterpreter().interpreter(context);
 	}
 }
+/**
+ * ÍÆ¼ö²©¿Í£ºhttp://blog.csdn.net/zhengzhb/article/details/7666020
+ */

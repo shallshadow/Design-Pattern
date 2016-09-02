@@ -26,3 +26,9 @@ public class MainTest {
 /**
  * 参考博客：http://blog.csdn.net/zhengzhb/article/details/7359385
  * */
+/**
+ * 适用情况：
+ *  1.系统中有多个产品族，而系统一次只可能消费其中一族产品。
+ *  2.同属于同一个产品族的产品以其使用。
+ * **/
+ 

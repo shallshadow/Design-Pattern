@@ -34,3 +34,7 @@ public class MainTest {
 		System.out.println(originator.getState().getAction());
 	}
 }
+
+/**
+ * ÍÆ¼ö²©¿Í£ºhttp://blog.csdn.net/zhengzhb/article/details/7697549
+ */

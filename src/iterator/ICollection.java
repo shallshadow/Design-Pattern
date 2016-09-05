@@ -10,7 +10,7 @@ public interface ICollection<T> {
 	//·µ»Øµü´úÆ÷
 	IIterator<T> iterator();
 	
-	void add(T t);
+	void add(T t); 
 	
 	T get(int index);
 	

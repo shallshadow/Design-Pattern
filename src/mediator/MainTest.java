@@ -14,3 +14,6 @@ public class MainTest {
 		mediator.work();
 	}
 }
+/**
+ * ÍÆ¼öÄ£¿é£ºhttp://blog.csdn.net/zhengzhb/article/details/7430098
+ */

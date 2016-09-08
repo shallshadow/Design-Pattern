@@ -31,5 +31,9 @@ public class MainTest {
  * 3）策略模式仅仅封装算法，提供新算法插入到已有系统中，以及老算法从系统中“退休”的方便，策略模式并不决定在何时使用何种算法，算法的选择由客户端来决定。<br/>
  * 	这在一定程度上提高了系统的灵活性，但是客户端需要理解所有具体策略类之间的区别，以便选择合适的算法，这也是策略模式的缺点之一，<br/>
  * 	在一定程度上增加了客户端的使用难度。<br/>
- * 
  **/
+
+/**
+ * 推荐博客：http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html
+ * */
+ 

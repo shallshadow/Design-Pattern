@@ -1,4 +1,8 @@
 package visitor;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 /**
  * @author shadow
  * @Date 2016年8月13日下午8:21:03
@@ -7,10 +11,6 @@ package visitor;
  * 	  	 简单来说，访问者模式就是一种分离对象数据结构与行为的方法，通过这种分离，可达到为一个被访问者动态添加新的操作而无需做其他的修改的效果<br/>
  * 		缺点：添加新的元素类，比较困难，因为需要修改抽象访问者的接口及实现，违反开-闭原则<br/>
  **/
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-
 public class MainTest {
 	public static void main(String[] args) {
 		List<Flower> flowers = new ArrayList<>();

@@ -11,7 +11,7 @@
  <td>抽象工厂 </td>  <td>生成器</td>   <td>工厂方法</td>   <td>原型</td>
 </tr>
 <tr>
- <td>单件</td> <td></td> <td></td> <td></td>
+ <td>单例</td> <td></td> <td></td> <td></td>
 </tr>
 </table>
 2.结构型模式<br/>
